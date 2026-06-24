@@ -1,28 +1,31 @@
 <h1 align="center">Hi 👋, I'm Satya Ranjan Pattanayak</h1>
 
 <h3 align="center">
-🚀 Software Developer | Java Developer | AI/ML Enthusiast | Android & Web Developer
+🚀 Software Developer | Java Developer | Web Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
-Building impactful projects, mastering DSA, and preparing for Software Engineering opportunities.
+B.Tech CST Student • Building Real-World Projects • Learning DSA & System Design • Open to Internship Opportunities
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science & Technology (CST)
+🎓 B.Tech in Computer Science & Technology (3rd Year)
+
 🏫 Nalanda Institute of Technology, Bhubaneswar
-📊 CGPA: 8.55 / 10
+
+📊 CGPA: 8.55/10
 
 💡 Passionate about:
 
 * Software Development
-* Data Structures & Algorithms (Java)
+* Java Programming
+* Data Structures & Algorithms
 * Web Development
-* Android Development
 * Artificial Intelligence & Machine Learning
+* Android Development
 
 🌱 Currently Learning:
 
@@ -32,110 +35,139 @@ Building impactful projects, mastering DSA, and preparing for Software Engineeri
 * Cloud Computing
 
 🎯 Career Goal:
-Become a skilled Software Engineer and build innovative products that solve real-world problems.
+To become a Software Engineer and build impactful technology products that solve real-world problems.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-* Java
-* Python
-* JavaScript
-* SQL
-* C
+☕ Java
 
-### Web Development
+🐍 Python
 
-* HTML
-* CSS
-* JavaScript
-* Responsive Web Design
+🌐 JavaScript
 
-### Mobile Development
+🗄️ SQL
 
-* Android Development
-* Firebase
+💻 C
+
+### Web Technologies
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Responsive Web Design
 
 ### AI / ML
 
-* Machine Learning
-* Data Analysis
-* Model Training
+Machine Learning
 
-### Tools & Technologies
+Data Analysis
 
-* Git & GitHub
-* VS Code
-* Firebase
-* REST APIs
+Scikit-Learn
+
+Model Training
+
+### Tools & Platforms
+
+Git & GitHub
+
+Firebase
+
+VS Code
+
+Kaggle
+
+REST APIs
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Satyang AI
-
-An AI-powered personal assistant designed to provide intelligent conversations and assist users with productivity and learning.
+# 🚀 Featured Projects
 
 ### 🌦️ Satyang Weather App
 
-Real-time weather application with weather forecasting, alerts, and user-friendly interface.
+A real-time weather forecasting application with weather insights and API integration.
+
+### 🤖 AI Agents Learning Projects
+
+Projects developed during Google's 5-Day AI Agents Intensive Course covering Gemini, MCP, Multi-Agent Systems, Cloud Run Deployment and AI Applications.
 
 ### 🌐 Personal Portfolio Website
 
-Professional portfolio showcasing projects, internships, certifications, and technical skills.
+A professional developer portfolio showcasing projects, skills, certifications, and achievements.
 
-### 🏥 Diabetes Prediction System
+### 🏥 Diabetes Prediction ML
 
-Machine Learning project using Python and SVM for healthcare prediction.
+Machine Learning model using Python and SVM to predict diabetes based on medical datasets.
 
-### 💼 VyapariMate
+### 🚗 Car Price Predictor ML
 
-Smart business assistant concept for helping small business owners manage operations efficiently.
+Machine Learning project for predicting used car prices using Linear Regression.
 
----
+### 📒 Contact Book Application
 
-## 💼 Internship Experience
+Modern Contact Management System built using HTML, CSS and JavaScript.
 
-### Software Development Intern
+### 📝 Blog Application
 
-🏢 SaiKet Systems
+A responsive blog application developed using HTML, CSS and JavaScript.
 
-Worked on software development concepts, project implementation, and practical industry workflows.
+### 🎮 Number Guessing Game
 
-### Android Development Intern
+Interactive browser-based game developed using JavaScript.
 
-🏢 Cognifyz Technologies
+### ☕ Java DSA Journey
 
-Built Android development skills and worked on real-world development tasks.
-
-### AI/ML Intern
-
-🏢 InternPe
-
-Worked on Machine Learning concepts, data analysis, and AI-based projects.
+Repository documenting my journey of mastering Data Structures and Algorithms using Java.
 
 ---
 
-## 🏆 Certifications & Activities
+# 💼 Internship Experience
 
-✅ ISRO – IIRS Certified Programs
+### 💻 Software Development Intern
 
-✅ AI Tools Workshop Participant
+Amdox
 
-✅ Kaggle Learning Programs
+Worked on development concepts, project implementation and software engineering practices.
+
+### 🤖 Machine Learning Intern
+
+Cognifyz Technologies
+
+Worked on Machine Learning projects using Python and Scikit-Learn.
+
+### 🎯 AI/ML Intern
+
+InternPe
+
+Hands-on learning and implementation of AI/ML concepts and projects.
+
+---
+
+# 🏆 Achievements & Certifications
+
+✅ ISRO - IIRS Certified Programs
+
+✅ Google AI Agents Intensive Course (Kaggle)
+
+✅ AI Tools Workshop
 
 ✅ Internshala Student Partner
 
-✅ Volunteer – Mega Tinkering Day 2025 (Atal Innovation Mission, NITI Aayog)
+✅ Multiple Technical Certifications
 
-✅ Multiple Technical Workshops & Internship Certifications
+✅ Active GitHub & LinkedIn Contributor
+
+✅ Volunteer - Mega Tinkering Day 2025 (Atal Innovation Mission, NITI Aayog)
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=drsatyaranjan01-crypto&show_icons=true&theme=tokyonight" />
@@ -145,25 +177,44 @@ Worked on Machine Learning concepts, data analysis, and AI-based projects.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsatyaranjan01-crypto&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drsatyaranjan01-crypto&theme=tokyonight" />
+</p>
+
 ---
 
-## 🌐 Connect With Me
+# 🎯 Current Focus
 
-📧 Email: [dr.satyaranjan.01@gmail.com](mailto:dr.satyaranjan.01@gmail.com)
+🔹 Mastering DSA in Java
+
+🔹 Building Full Stack Projects
+
+🔹 Preparing for Software Engineering Internships
+
+🔹 Strengthening Problem Solving Skills
+
+🔹 Exploring AI/ML and Cloud Technologies
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email:
+[dr.satyaranjan.01@gmail.com](mailto:dr.satyaranjan.01@gmail.com)
 
 💼 LinkedIn:
-[www.linkedin.com/in/satya-ranjan-pattanayak-976189302](http://www.linkedin.com/in/satya-ranjan-pattanayak-976189302)
+https://www.linkedin.com/in/satya-ranjan-pattanayak-976189302/
 
 💻 GitHub:
-github.com/drsatyaranjan01-crypto
+https://github.com/drsatyaranjan01-crypto
 
 🌍 Portfolio:
-https://satya-ranjan-portfolio.netlify.app
+https://satya-ranjan-portfolio.netlify.app/
 
 ---
 
-## 💭 Motto
+# 💭 Developer Mindset
 
-> "Learn. Build. Share. Improve. Repeat."
+> "Consistency + Learning + Building = Growth"
 
-⭐ Consistently building projects, strengthening DSA skills, and preparing for the next big opportunity.
+⭐ Building projects, improving every day, and preparing for the next big opportunity in tech.
