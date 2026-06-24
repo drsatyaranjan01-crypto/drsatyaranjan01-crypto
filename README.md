@@ -1,50 +1,75 @@
-# Hi 👋, I'm Satya Ranjan Pattanayak
+<h1 align="center">Hi 👋, I'm Satya Ranjan Pattanayak</h1>
 
-<h3 align="center">🚀 Software Developer | Java Developer | Web Developer | Android Developer | AI/ML Enthusiast</h3>
+<h3 align="center">
+🚀 Software Developer | Java Developer | AI/ML Enthusiast | Android & Web Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drsatyaranjan01-crypto&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+Building impactful projects, mastering DSA, and preparing for Software Engineering opportunities.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science & Technology (CST) at Nalanda Institute of Technology, Bhubaneswar
+🎓 B.Tech in Computer Science & Technology (CST)
+🏫 Nalanda Institute of Technology, Bhubaneswar
+📊 CGPA: 8.55 / 10
 
-💡 Passionate about Software Development, Full-Stack Development, Android Development, AI/ML, and Problem Solving
+💡 Passionate about:
 
-🌱 Currently learning:
-
+* Software Development
 * Data Structures & Algorithms (Java)
+* Web Development
+* Android Development
+* Artificial Intelligence & Machine Learning
+
+🌱 Currently Learning:
+
+* Advanced DSA in Java
+* Full Stack Web Development
 * System Design
-* Full-Stack Web Development
-* AI/ML
+* Cloud Computing
 
-🚀 Building real-world projects and continuously improving my development skills
-
-🎯 Goal: Secure Software Development Internships and become a skilled Software Engineer
+🎯 Career Goal:
+Become a skilled Software Engineer and build innovative products that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+* Java
+* Python
+* JavaScript
+* SQL
+* C
 
-### Frontend Development
+### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+* HTML
+* CSS
+* JavaScript
+* Responsive Web Design
+
+### Mobile Development
+
+* Android Development
+* Firebase
+
+### AI / ML
+
+* Machine Learning
+* Data Analysis
+* Model Training
 
 ### Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+* Git & GitHub
+* VS Code
+* Firebase
+* REST APIs
 
 ---
 
@@ -52,51 +77,73 @@
 
 ### 🤖 Satyang AI
 
-AI-powered personal assistant built using modern AI technologies.
+An AI-powered personal assistant designed to provide intelligent conversations and assist users with productivity and learning.
 
-### 🌦️ Weather App
+### 🌦️ Satyang Weather App
 
-Real-time weather forecasting application with a clean user interface.
+Real-time weather application with weather forecasting, alerts, and user-friendly interface.
 
-### 🏥 Diabetes Prediction ML
+### 🌐 Personal Portfolio Website
 
-Machine Learning project for diabetes prediction using Python and SVM.
+Professional portfolio showcasing projects, internships, certifications, and technical skills.
 
-### 📱 Android Applications
+### 🏥 Diabetes Prediction System
 
-Android applications developed using Java, Firebase, and modern development practices.
+Machine Learning project using Python and SVM for healthcare prediction.
 
-### 🌐 Portfolio Website
+### 💼 VyapariMate
 
-Personal portfolio showcasing projects, achievements, and technical skills.
+Smart business assistant concept for helping small business owners manage operations efficiently.
+
+---
+
+## 💼 Internship Experience
+
+### Software Development Intern
+
+🏢 SaiKet Systems
+
+Worked on software development concepts, project implementation, and practical industry workflows.
+
+### Android Development Intern
+
+🏢 Cognifyz Technologies
+
+Built Android development skills and worked on real-world development tasks.
+
+### AI/ML Intern
+
+🏢 InternPe
+
+Worked on Machine Learning concepts, data analysis, and AI-based projects.
+
+---
+
+## 🏆 Certifications & Activities
+
+✅ ISRO – IIRS Certified Programs
+
+✅ AI Tools Workshop Participant
+
+✅ Kaggle Learning Programs
+
+✅ Internshala Student Partner
+
+✅ Volunteer – Mega Tinkering Day 2025 (Atal Innovation Mission, NITI Aayog)
+
+✅ Multiple Technical Workshops & Internship Certifications
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drsatyaranjan01-crypto&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=drsatyaranjan01-crypto&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsatyaranjan01-crypto&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsatyaranjan01-crypto&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drsatyaranjan01-crypto&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-🏅 InternPe Internship
-
-🏅 AI & Technology Workshops
-
-🏅 Multiple Technical Certifications
-
-🏅 Active GitHub & LinkedIn Contributor
 
 ---
 
@@ -104,16 +151,19 @@ Personal portfolio showcasing projects, achievements, and technical skills.
 
 📧 Email: [dr.satyaranjan.01@gmail.com](mailto:dr.satyaranjan.01@gmail.com)
 
-💼 LinkedIn: [www.linkedin.com/in/satya-ranjan-pattanayak-976189302](http://www.linkedin.com/in/satya-ranjan-pattanayak-976189302)
+💼 LinkedIn:
+[www.linkedin.com/in/satya-ranjan-pattanayak-976189302](http://www.linkedin.com/in/satya-ranjan-pattanayak-976189302)
 
-🌍 Portfolio: https://satya-ranjan-portfolio.netlify.app/
+💻 GitHub:
+github.com/drsatyaranjan01-crypto
 
-💻 GitHub: https://github.com/drsatyaranjan01-crypto
+🌍 Portfolio:
+https://satya-ranjan-portfolio.netlify.app
 
 ---
 
-### 💡 Quote
+## 💭 Motto
 
-"Consistency beats talent when talent doesn't work hard."
+> "Learn. Build. Share. Improve. Repeat."
 
-⭐ Building real-world projects, mastering DSA, and growing every day.
+⭐ Consistently building projects, strengthening DSA skills, and preparing for the next big opportunity.
